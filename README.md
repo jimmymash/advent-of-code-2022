@@ -1,5 +1,8 @@
-# advent-of-code-2022
-Making an attempt to keep the coding skills sharp near the end of this year.
+Run leaderboard.py to produce leaderboard
 
-One thing to note is I had to adjust the repo connection to make it work on my laptop with the key being "jimmymash@" added to the front of https
-e.g. "git remote set-url origin https://jimmymash@github.com/jimmymash/advent-of-code-2022.git"
+to enter your code:
+ 1. create a directory with your name
+ 1. create subfolders for each day
+ 1. create scripts for each task inside the day's directory
+    - scripts will need to read data from the data folder
+
